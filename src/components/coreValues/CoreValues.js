@@ -25,10 +25,10 @@ export default function CoreValues() {
             </div>
             <div className="text-[24px] text-white font-bold">Committed</div>
             <div className="text-[18px] text-white">
-              At Arc Constructions, we walk the talk. We don't just build; we
-              invest. By developing properties ourselves, we pour our heart and
-              soul into delivering on time and within budget. It's a personal
-              commitment, etched in every brick and beam.
+              At Arc Constructions, we walk the talk. We don&apos;t just build;
+              we invest. By developing properties ourselves, we pour our heart
+              and soul into delivering on time and within budget. It&apos;s a
+              personal commitment, etched in every brick and beam.
             </div>
           </div>
           <div className="w-full md:w-[50%] h-full p-10 flex flex-col gap-4">
@@ -37,9 +37,10 @@ export default function CoreValues() {
             </div>
             <div className="text-[24px] text-white font-bold">Inspired</div>
             <div className="text-[18px] text-white">
-              We don't see empty lots, we see possibilities. We're not just
-              builders, we're architects of transformation. We breathe new life
-              into assets, shape communities, and unlock real value in places
+              We don&apos;t see empty lots, we see possibilities. We&apos;re not
+              just builders, we&apos;re architects of transformation. We breathe
+              new life into assets, shape communities, and unlock real value in
+              places
             </div>
           </div>
         </div>
@@ -53,8 +54,8 @@ export default function CoreValues() {
             </div>
             <div className="text-[18px] text-white">
               We build more than homes; we build the foundation for thriving
-              families. It's not just about walls, it's about fostering
-              communities where comfort and spirit flourish.
+              families. It&apos;s not just about walls, it&apos;s about
+              fostering communities where comfort and spirit flourish.
             </div>
           </div>
           <div className="w-full md:w-[50%] h-full p-10 flex flex-col gap-4">
@@ -63,9 +64,9 @@ export default function CoreValues() {
             </div>
             <div className="text-[24px] text-white font-bold">Efficient</div>
             <div className="text-[18px] text-white">
-              Functionality isn't a burden, it's our artistic signature. We
-              craft spaces with visual integrity, maximising every square foot
-              without sacrificing aesthetics.
+              Functionality isn&apos;t a burden, it&apos;s our artistic
+              signature. We craft spaces with visual integrity, maximising every
+              square foot without sacrificing aesthetics.
             </div>
           </div>
         </div>
@@ -76,10 +77,11 @@ export default function CoreValues() {
             </div>
             <div className="text-[24px] text-white font-bold">Transparent</div>
             <div className="text-[18px] text-white">
-              Honesty isn't a tagline, it's our way of life. From clear
-              communication to open processes, we believe in building trust,
-              brick by transparent brick. Client testimonials speak louder than
-              words, budgets are demystified, and progress unfolds openly.
+              Honesty isn&apos;t a tagline, it&apos;s our way of life. From
+              clear communication to open processes, we believe in building
+              trust, brick by transparent brick. Client testimonials speak
+              louder than words, budgets are demystified, and progress unfolds
+              openly.
             </div>
           </div>
         </div>
@@ -120,7 +122,7 @@ export default function CoreValues() {
           <div className="w-full md:w-[50%] mt-auto h-full px-10 pt-10 pb-10 flex flex-col gap-4">
             <div className="text-[24px] text-white font-thin">Contact us</div>
             <div className="text-[46px] text-white font-bold">
-              Let’s get in touch
+              Let&apos;s get in touch
             </div>
             <div className="text-[18px] text-white font-thin">
               Fill in the form to know more about our services, our team will

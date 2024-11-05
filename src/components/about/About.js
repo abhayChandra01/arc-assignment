@@ -18,9 +18,9 @@ export default function About() {
         </div>
 
         <div>
-          Since the 1960s, we've been building in Bengaluru, starting with
+          Since the 1960s, we&apos;ve been building in Bengaluru, starting with
           handmade bricks and tiles. Today, we construct everything from cosy
-          homes to busy business centres using steel and glass. We're a
+          homes to busy business centres using steel and glass. We&apos;re a
           dedicated and family-oriented team, using the latest tools while
           staying true to our roots.
         </div>
