@@ -15,9 +15,56 @@
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  font-family: "Manrope", sans-serif;
+}
+
+.homepage-background {
+  background-image: url("../assets/0O3A1076.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+}
+
+.custom-button {
+  border: 1px solid #333333;
+  min-width: 204px;
+  height: 70px;
+  border-radius: 16px;
+  background-color: #ffffff;
+  color: #333333;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: #333333;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+.custom-button:active {
+  transform: scale(0.98);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f0f0f0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #add8e6;
+  border-radius: 4px;
 }
 
 @layer utilities {
